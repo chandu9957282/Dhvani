@@ -1,0 +1,77 @@
+ID001: Inconsistent typography for "Switch Profile" on Settings screen
+
+Title
+Settings: "Switch Profile" typography is inconsistent with surrounding UI
+
+Description
+On the Settings screen, the "Switch Profile" text under the default user profile uses a different font style/weight compared to the rest of the application.
+
+This creates an inconsistent visual appearance and makes the profile section look different from other settings.
+
+### Steps to Reproduce
+1. Open Settings.
+2. Navigate to the profile section at the top.
+3. Observe the "Switch Profile" text.
+
+### Expected Behavior
+The "Switch Profile" text should use the same typography (font family, weight, size, and spacing) as the rest of the application.
+
+### Actual Behavior
+The typography appears different and visually inconsistent with the rest of the Settings screen.
+
+### Priority
+Medium
+
+### Category
+UI / Design
+
+ID002: Search bar action icons should be aligned horizontally
+
+Title
+All Words: Search bar action icons are stacked vertically instead of being aligned in a single row
+
+Description
+On the All Words screen, the action icons (Clear, Delete/Trash, and Recent Searches) displayed beside the sentence/search field are arranged vertically.
+
+This occupies unnecessary vertical space and differs from the horizontal layout used for the search bar below.
+
+### Steps to Reproduce
+1. Open the All Words screen.
+2. Observe the action icons beside the sentence/search field.
+
+### Expected Behavior
+The Clear (X), Delete/Trash, and Recent Search icons should be placed in a single horizontal row similar to the search field controls.
+
+### Actual Behavior
+The icons are stacked vertically, making the interface less compact and less visually consistent.
+
+### Priority
+Medium
+
+### Category
+UI / UX
+
+ID002: Improve consistency between search field and action controls
+
+Title
+All Words: Action controls should follow the same layout pattern as the search bar
+
+Description
+The search field uses a clean horizontal layout, while the action controls (Clear, Delete, Recent) use a separate vertical floating layout.
+
+Using a consistent horizontal arrangement would improve usability and visual consistency.
+
+### Expected Behavior
+Action controls should follow the same design pattern as the search bar, with icons aligned horizontally and evenly spaced.
+
+### Benefit
+- Better visual consistency
+- Easier reachability
+- Reduced visual clutter
+- Improved accessibility
+
+### Priority
+Low
+
+### Category
+UI / UX Enhancement
