@@ -463,6 +463,46 @@ The current application includes:
 * Settings navigation
 
 ---
+## Upcoming Features
+
+**1. Tabula Rasa Mode**
+
+**"Every communication journey starts with a blank slate."**
+
+The term Tabula Rasa means "blank slate." In Dhvani, this mode allows users, caregivers, or therapists to build a completely personalized communication system from scratch instead of starting with prebuilt boards.
+
+**Purpose**
+
+Every AAC user communicates differently. Rather than forcing everyone to use the same vocabulary, Tabula Rasa Mode lets communication grow with the individual.
+As the child develops, additional vocabulary can gradually be added without overwhelming them.
+
+**2. Sherlock Mode**
+
+**"Helping caregivers understand communication patterns."**
+
+Sherlock Mode is an intelligent observation and pattern analysis feature.
+
+Instead of only recording what users say, Sherlock Mode analyzes communication behavior to help caregivers and therapists discover useful insights.
+
+**Purpose**
+
+Identify communication trends that may not be obvious during daily use.
+This information can help caregivers understand needs and adapt communication boards.
+
+**3. Experiment Journal**
+
+**"Track communication growth, one step at a time."**
+
+Experiment Journal is a structured log where therapists, teachers, caregivers, and researchers can document observations, communication sessions, and progress over time.
+
+It is designed to support evidence-based improvements to a user's AAC experience.
+
+**Purpose**
+
+Keep a history of communication experiments, observations, and successful strategies.
+
+
+---
 
 ## Our Message
 
